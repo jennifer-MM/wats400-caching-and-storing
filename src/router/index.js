@@ -4,6 +4,7 @@ import CitySearch from '@/views/CitySearch'
 import CurrentWeather from '@/views/CurrentWeather'
 import Forecast from '@/views/Forecast'
 
+
 Vue.use(VueRouter)
 
   const routes = [
